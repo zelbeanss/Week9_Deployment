@@ -11,3 +11,4 @@ pinned: false
 # Week 9 Homework – Zelda Seow
 
 This Gradio app says: **Hello {name}, I'm Zelda Seow!**
+# Redeploy clean version
