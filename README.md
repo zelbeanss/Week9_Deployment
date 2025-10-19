@@ -12,3 +12,4 @@ pinned: false
 
 This Gradio app says: **Hello {name}, I'm Zelda Seow!**
 # Redeploy clean version
+Redeploy test
